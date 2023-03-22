@@ -1,0 +1,21 @@
+@startuml
+Title Spending Power User Flow
+switch (Fetch User's Prequal)
+case ( Approved )
+  :Show Spending Power Tile;
+  detach
+case ( No Previous Guarantee ) 
+  :Show get speding power message;
+  detach
+case ( Missing address )
+  :Show update address message and button;
+  detach
+case ( Missing income )
+  :Show update income message and button;
+  detach
+case ( Denied )
+  :Show how it works card;
+  detach
+endswitch
+stop
+@enduml

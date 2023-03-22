@@ -35,7 +35,7 @@ else (**Yes** has loans)
             We need the users autopay status for each loan
             To know whether to show the autopay button
           end note
-          !include AutoPay.puml
+          !include manage/autopay/AutoPay.puml
         end split
   endif
 endif
