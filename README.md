@@ -2,4 +2,4 @@
 Diagram
 *****
 
-.. image:: https://github.com/leslierodriguezcodes/header-refreshv2-diagrams/blob/d034801c089827017a189e41adb4b8f43648aff9/user-flow.svg
+.. image:: https://github.com/leslierodriguezcodes/diagrams/blob/637d53ce498877e4d6040db92714b300aaac4999/user-flow.svg
