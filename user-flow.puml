@@ -1,0 +1,42 @@
+@startuml
+title Manage tile user flow
+start 
+note right
+Start here
+end note
+if (does user have active loans?) then (**No** 0 loans)
+  :Display no loans message in manage tile;
+  :Start flow for spending Power (see diagram);
+  kill
+else (**Yes** has loans)
+  :Fetch Loans Repayment Summary;
+  if (does user have overdue loans) then (**Yes** is overdue)
+    :Show manage tile with overdue message;
+    'space label only for alignment 
+    label space_label  
+    label space_label
+    :User clicks pay now; 
+    label space_label
+    label space_label
+    label space_label
+    'real label
+    label manage_tab_label
+    :User is taken to the manage page;
+    kill
+  else (**No** is on time)
+      :Start flow for spending Power (see diagram);
+      :Show manage tile with amount due this month;
+        split
+          :User clicks manage tile; 
+          goto manage_tab_label
+        split again
+          :Does user have more than one loan?;
+          note right
+            We need the users autopay status for each loan
+            To know whether to show the autopay button
+          end note
+          !include AutoPay.puml
+        end split
+  endif
+endif
+@enduml

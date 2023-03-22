@@ -1,0 +1,21 @@
+@startuml
+if (loanCount?) equals (has 1 loan) then
+  :check loan has autopay enabled;
+  if (is autopay is enabled for loan?) then (yes)
+    :show user autopay is enabled;
+    detach
+  else (no)
+    :show autopay button;
+    detach
+    endif
+else (has multiple loans)
+  :check if each loan has autopay;
+  if (is autopay is enabled for all?) then (yes)
+    :show user autopay is enabled;
+    detach
+  else (no)
+    :show autopay button;
+    detach
+    endif
+endif
+@enduml

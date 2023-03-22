@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="587px" preserveAspectRatio="none" style="width:1648px;height:587px;background:#FFFFFF;" version="1.1" viewBox="0 0 1648 587" width="1648px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.4883" id="_title" style="stroke:none;stroke-width:1.0;" width="167" x="739.125" y="15"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="157" x="744.125" y="33.5352">Manage tile user flow</text><path d="M476.0313,47.4883 L476.0313,56.1436 L456.0313,60.1436 L476.0313,64.1436 L476.0313,72.7988 A0,0 0 0 0 476.0313,72.7988 L557.0313,72.7988 A0,0 0 0 0 557.0313,72.7988 L557.0313,57.4883 L547.0313,47.4883 L476.0313,47.4883 A0,0 0 0 0 476.0313,47.4883 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M547.0313,47.4883 L547.0313,57.4883 L557.0313,57.4883 L547.0313,47.4883 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="482.0313" y="65.0566">Start here</text><ellipse cx="446.0313" cy="60.1436" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><polygon fill="#F1F1F1" points="370.0313,92.7988,522.0313,92.7988,534.0313,104.7988,522.0313,116.7988,370.0313,116.7988,358.0313,104.7988,370.0313,92.7988" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="152" x="370.0313" y="108.9561">does user have active loans?</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="15" x="301.0313" y="102.4785">No</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="319.0313" y="102.4785">0 loans</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="20" x="534.0313" y="102.4785">Yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="51" x="557.0313" y="102.4785">has loans</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="254" x="20.5" y="126.7988"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="234" x="30.5" y="148.4004">Display no loans message in manage tile</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="11" y="180.9316"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="253" x="21" y="202.5332">Start flow for spending Power (see diagram)</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="213" x="658.0625" y="126.7988"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="193" x="668.0625" y="148.4004">Fetch Loans Repayment Summary</text><polygon fill="#F1F1F1" points="684.5625,180.9316,844.5625,180.9316,856.5625,192.9316,844.5625,204.9316,684.5625,204.9316,672.5625,192.9316,684.5625,180.9316" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="160" x="684.5625" y="197.0889">does user have overdue loans</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="20" x="593.5625" y="190.6113">Yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="56" x="616.5625" y="190.6113">is overdue</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="15" x="856.5625" y="190.6113">No</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="874.5625" y="190.6113">is on time</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="253" x="294" y="214.9316"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="233" x="304" y="236.5332">Show manage tile with overdue message</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="133" x="354" y="324.0645"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="113" x="364" y="345.666">User clicks pay now</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="215" x="313" y="518.1973"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="195" x="323" y="539.7988">User is taken to the manage page</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="972.125" y="214.9316"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="253" x="982.125" y="236.5332">Start flow for spending Power (see diagram)</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="966.625" y="269.0645"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="264" x="976.625" y="290.666">Show manage tile with amount due this month</text><line style="stroke:#181818;stroke-width:1.5;" x1="657" x2="1183.25" y1="323.1973" y2="323.1973"/><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="152" x="581" y="424.5742"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="132" x="591" y="446.1758">User clicks manage tile</text><ellipse cx="658.5" cy="495.207" fill="#A80036" rx="1.5" ry="1.5" style="stroke:#A80036;stroke-width:1.0;"/><ellipse cx="422" cy="484.6973" fill="#A80036" rx="1.5" ry="1.5" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="657" x2="420.5" y1="493.707" y2="493.707"/><line style="stroke:#A80036;stroke-width:1.0;" x1="420.5" x2="420.5" y1="483.1973" y2="493.707"/><path d="M1318.25,344.6973 L1318.25,361.0078 L1298.25,365.0078 L1318.25,369.0078 L1318.25,385.3184 A0,0 0 0 0 1318.25,385.3184 L1636.25,385.3184 A0,0 0 0 0 1636.25,385.3184 L1636.25,354.6973 L1626.25,344.6973 L1318.25,344.6973 A0,0 0 0 0 1318.25,344.6973 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1626.25,344.6973 L1626.25,354.6973 L1636.25,354.6973 L1626.25,344.6973 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="297" x="1324.25" y="362.2656">We need the users autopay status for each loan</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="286" x="1324.25" y="377.5762">To know whether to show the autopay button</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="230" x="1068.25" y="347.9414"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="210" x="1078.25" y="369.543">Does user have more than one loan?</text><polygon fill="#F1F1F1" points="1152.75,405.3184,1213.75,405.3184,1225.75,417.3184,1213.75,429.3184,1152.75,429.3184,1140.75,417.3184,1152.75,405.3184" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="1152.75" y="421.4756">loanCount?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="1085.75" y="414.998">has 1 loan</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="1225.75" y="414.998">has multiple loans</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="206" x="877" y="439.3184"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="186" x="887" y="460.9199">check loan has autopay enabled</text><polygon fill="#F1F1F1" points="899,508.4512,1061,508.4512,1073,520.4512,1061,532.4512,899,532.4512,887,520.4512,899,508.4512" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="162" x="899" y="524.6084">is autopay is enabled for loan?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="869" y="518.1309">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="14" x="1073" y="518.1309">no</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="192" x="781" y="542.4512"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="791" y="564.0527">show user autopay is enabled</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="1013" y="542.4512"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="1023" y="564.0527">show autopay button</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="1288" y="439.3184"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="177" x="1298" y="460.9199">check if each loan has autopay</text><polygon fill="#F1F1F1" points="1311,508.4512,1462,508.4512,1474,520.4512,1462,532.4512,1311,532.4512,1299,520.4512,1311,508.4512" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="1311" y="524.6084">is autopay is enabled for all?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="1281" y="518.1309">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="14" x="1474" y="518.1309">no</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="192" x="1193" y="542.4512"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="1203" y="564.0527">show user autopay is enabled</text><rect fill="#F1F1F1" height="34.1328" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="1414" y="542.4512"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="1424" y="564.0527">show autopay button</text><line style="stroke:#181818;stroke-width:1.0;" x1="147.5" x2="147.5" y1="160.9316" y2="180.9316"/><polygon fill="#181818" points="143.5,170.9316,147.5,180.9316,151.5,170.9316,147.5,174.9316" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="420.5" x2="420.5" y1="249.0645" y2="324.0645"/><polygon fill="#181818" points="416.5,314.0645,420.5,324.0645,424.5,314.0645,420.5,318.0645" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="420.5" x2="420.5" y1="358.1973" y2="518.1973"/><polygon fill="#181818" points="416.5,508.1973,420.5,518.1973,424.5,508.1973,420.5,512.1973" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1108.625" x2="1108.625" y1="249.0645" y2="269.0645"/><polygon fill="#181818" points="1104.625,259.0645,1108.625,269.0645,1112.625,259.0645,1108.625,263.0645" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="657" x2="657" y1="458.707" y2="493.707"/><polygon fill="#181818" points="653,483.707,657,493.707,661,483.707,657,487.707" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="887" x2="877" y1="520.4512" y2="520.4512"/><line style="stroke:#181818;stroke-width:1.0;" x1="877" x2="877" y1="520.4512" y2="542.4512"/><polygon fill="#181818" points="873,532.4512,877,542.4512,881,532.4512,877,536.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1073" x2="1083" y1="520.4512" y2="520.4512"/><line style="stroke:#181818;stroke-width:1.0;" x1="1083" x2="1083" y1="520.4512" y2="542.4512"/><polygon fill="#181818" points="1079,532.4512,1083,542.4512,1087,532.4512,1083,536.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="980" x2="980" y1="473.4512" y2="508.4512"/><polygon fill="#181818" points="976,498.4512,980,508.4512,984,498.4512,980,502.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1299" x2="1289" y1="520.4512" y2="520.4512"/><line style="stroke:#181818;stroke-width:1.0;" x1="1289" x2="1289" y1="520.4512" y2="542.4512"/><polygon fill="#181818" points="1285,532.4512,1289,542.4512,1293,532.4512,1289,536.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1474" x2="1484" y1="520.4512" y2="520.4512"/><line style="stroke:#181818;stroke-width:1.0;" x1="1484" x2="1484" y1="520.4512" y2="542.4512"/><polygon fill="#181818" points="1480,532.4512,1484,542.4512,1488,532.4512,1484,536.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1386.5" x2="1386.5" y1="473.4512" y2="508.4512"/><polygon fill="#181818" points="1382.5,498.4512,1386.5,508.4512,1390.5,498.4512,1386.5,502.4512" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1140.75" x2="980" y1="417.3184" y2="417.3184"/><line style="stroke:#181818;stroke-width:1.0;" x1="980" x2="980" y1="417.3184" y2="439.3184"/><polygon fill="#181818" points="976,429.3184,980,439.3184,984,429.3184,980,433.3184" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1225.75" x2="1386.5" y1="417.3184" y2="417.3184"/><line style="stroke:#181818;stroke-width:1.0;" x1="1386.5" x2="1386.5" y1="417.3184" y2="439.3184"/><polygon fill="#181818" points="1382.5,429.3184,1386.5,439.3184,1390.5,429.3184,1386.5,433.3184" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1183.25" x2="1183.25" y1="382.0742" y2="405.3184"/><polygon fill="#181818" points="1179.25,395.3184,1183.25,405.3184,1187.25,395.3184,1183.25,399.3184" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="657" x2="657" y1="324.6973" y2="424.5742"/><polygon fill="#181818" points="653,414.5742,657,424.5742,661,414.5742,657,418.5742" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1183.25" x2="1183.25" y1="324.6973" y2="347.9414"/><polygon fill="#181818" points="1179.25,337.9414,1183.25,347.9414,1187.25,337.9414,1183.25,341.9414" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="1108.625" x2="1108.625" y1="303.1973" y2="323.1973"/><polygon fill="#181818" points="1104.625,313.1973,1108.625,323.1973,1112.625,313.1973,1108.625,317.1973" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="672.5625" x2="420.5" y1="192.9316" y2="192.9316"/><line style="stroke:#181818;stroke-width:1.0;" x1="420.5" x2="420.5" y1="192.9316" y2="214.9316"/><polygon fill="#181818" points="416.5,204.9316,420.5,214.9316,424.5,204.9316,420.5,208.9316" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="856.5625" x2="1108.625" y1="192.9316" y2="192.9316"/><line style="stroke:#181818;stroke-width:1.0;" x1="1108.625" x2="1108.625" y1="192.9316" y2="214.9316"/><polygon fill="#181818" points="1104.625,204.9316,1108.625,214.9316,1112.625,204.9316,1108.625,208.9316" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="764.5625" x2="764.5625" y1="160.9316" y2="180.9316"/><polygon fill="#181818" points="760.5625,170.9316,764.5625,180.9316,768.5625,170.9316,764.5625,174.9316" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="358.0313" x2="147.5" y1="104.7988" y2="104.7988"/><line style="stroke:#181818;stroke-width:1.0;" x1="147.5" x2="147.5" y1="104.7988" y2="126.7988"/><polygon fill="#181818" points="143.5,116.7988,147.5,126.7988,151.5,116.7988,147.5,120.7988" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="534.0313" x2="764.5625" y1="104.7988" y2="104.7988"/><line style="stroke:#181818;stroke-width:1.0;" x1="764.5625" x2="764.5625" y1="104.7988" y2="126.7988"/><polygon fill="#181818" points="760.5625,116.7988,764.5625,126.7988,768.5625,116.7988,764.5625,120.7988" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="446.0313" x2="446.0313" y1="70.1436" y2="92.7988"/><polygon fill="#181818" points="442.0313,82.7988,446.0313,92.7988,450.0313,82.7988,446.0313,86.7988" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[06ba3ac2c117301383f8ec4d8abb8807]
+@startuml
+title Manage tile user flow
+start 
+note right
+Start here
+end note
+if (does user have active loans?) then (**No** 0 loans)
+  :Display no loans message in manage tile;
+  :Start flow for spending Power (see diagram);
+  kill
+else (**Yes** has loans)
+  :Fetch Loans Repayment Summary;
+  if (does user have overdue loans) then (**Yes** is overdue)
+    :Show manage tile with overdue message;
+    'space label only for alignment 
+    label space_label  
+    label space_label
+    :User clicks pay now; 
+    label space_label
+    label space_label
+    label space_label
+    'real label
+    label manage_tab_label
+    :User is taken to the manage page;
+    kill
+  else (**No** is on time)
+      :Start flow for spending Power (see diagram);
+      :Show manage tile with amount due this month;
+        split
+          :User clicks manage tile; 
+          goto manage_tab_label
+        split again
+          :Does user have more than one loan?;
+          note right
+            We need the users autopay status for each loan
+            To know whether to show the autopay button
+          end note
+          !include AutoPay.puml
+        end split
+  endif
+endif
+@enduml
+
+@startuml
+title Manage tile user flow
+start 
+note right
+Start here
+end note
+if (does user have active loans?) then (**No** 0 loans)
+  :Display no loans message in manage tile;
+  :Start flow for spending Power (see diagram);
+  kill
+else (**Yes** has loans)
+  :Fetch Loans Repayment Summary;
+  if (does user have overdue loans) then (**Yes** is overdue)
+    :Show manage tile with overdue message;
+    label space_label  
+    label space_label
+    :User clicks pay now; 
+    label space_label
+    label space_label
+    label space_label
+    label manage_tab_label
+    :User is taken to the manage page;
+    kill
+  else (**No** is on time)
+      :Start flow for spending Power (see diagram);
+      :Show manage tile with amount due this month;
+        split
+          :User clicks manage tile; 
+          goto manage_tab_label
+        split again
+          :Does user have more than one loan?;
+          note right
+            We need the users autopay status for each loan
+            To know whether to show the autopay button
+          end note
+if (loanCount?) equals (has 1 loan) then
+  :check loan has autopay enabled;
+  if (is autopay is enabled for loan?) then (yes)
+    :show user autopay is enabled;
+    detach
+  else (no)
+    :show autopay button;
+    detach
+    endif
+else (has multiple loans)
+  :check if each loan has autopay;
+  if (is autopay is enabled for all?) then (yes)
+    :show user autopay is enabled;
+    detach
+  else (no)
+    :show autopay button;
+    detach
+    endif
+endif
+        end split
+  endif
+endif
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 CDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
